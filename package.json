@@ -4,5 +4,11 @@
   "description": "A starter kit for creating react applications built from scratch",
   "main": "index.js",
   "author": "saranshkataria",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.4.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.1"
+  }
 }

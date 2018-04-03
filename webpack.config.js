@@ -4,7 +4,8 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
-      hash: true
+      hash: true,
+      title: 'React Starter Kit by Saransh Kataria'
     })
   ]
 };

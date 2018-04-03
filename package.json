@@ -1,0 +1,8 @@
+{
+  "name": "react-starter-kit",
+  "version": "1.0.0",
+  "description": "A starter kit for creating react applications built from scratch",
+  "main": "index.js",
+  "author": "saranshkataria",
+  "license": "MIT"
+}

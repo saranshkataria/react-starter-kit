@@ -8,7 +8,7 @@ module.exports = (env, argv) => {
     baseConfig.devServer = {};
     baseConfig.devServer.hot = true;
     baseConfig.devServer.overlay = true;
-    baseConfig.plugins = {};
+    baseConfig.plugins = [];
     baseConfig.plugins.push(
       new HtmlWebpackPlugin({
         hash: true,
